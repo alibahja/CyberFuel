@@ -1,8 +1,8 @@
 # CyberFuel - AI-Powered Nutrition Tracking App
-https://img.shields.io/badge/platform-iOS%2520%257C%2520Android-blue
-https://img.shields.io/badge/React%2520Native-0.74-61DAFB
-https://img.shields.io/badge/ASP.NET%2520Core-8.0-512BD4
-https://img.shields.io/badge/MySQL-8.0-4479A1
+![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-blue)
+![React Native](https://img.shields.io/badge/React%20Native-0.74-61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8.0-512BD4)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1)
 
 Track meals, scan & estimate macros with Gemini AI, and get personalized meal plans based on your body data and preferences (vegan, low budget, etc.).
 
