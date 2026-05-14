@@ -94,11 +94,6 @@ cd CyberFuel/NutritionAppApi
 # Restore dependencies
 dotnet restore
 
-# Update appsettings.json with your MySQL connection string
-# "ConnectionStrings": {
-#   "DefaultConnection": "Server=localhost;Database=CyberFuelDb;User=root;Password=yourpassword;"
-# }
-
 # Run migrations
 dotnet ef database update
 
