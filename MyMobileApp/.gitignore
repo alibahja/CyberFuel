@@ -1,0 +1,66 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+# generated native folders
+/ios
+/android
+
+# Add these lines at the bottom of your existing .gitignore:
+
+# Environment variables (IMPORTANT — API keys!)
+.env
+.env.local
+.env.production
+
+# Backend folder inside frontend (you have a "backend" folder showing)
+# Keep this if that backend folder is just a copy/reference
+/backend
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.cache
+
+# Backup files (like that "Start backup" folder in your screenshot)
+*backup*
+Backup/

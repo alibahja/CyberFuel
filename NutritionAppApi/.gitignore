@@ -1,0 +1,36 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache files
+.vs/
+
+# Entity Framework Migrations logs (optional but recommended)
+Migrations/.snapshot
+
+# App settings with secrets (IMPORTANT)
+appsettings.Development.json
+
+# Logs
+logs/
+*.log
+
+# Generated files
+*.cache
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# Visual Studio Code
+.vscode/
